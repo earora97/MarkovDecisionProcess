@@ -1,6 +1,6 @@
 import copy
 x = 82.0
-delta = 1.0*x/20
+delta = 0
 array = [['y','y','y','y','y','y'],
         ['y','y','y',x,'y','y'],
         ['y',0, 0, 0, 0,'y'],
